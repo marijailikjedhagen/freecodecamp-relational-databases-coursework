@@ -1,0 +1,12 @@
+* 60595a4 feat: add .gitignore and sample.env feat: add .gitignore
+* 4bb3ecd fix: add missing rename references fix: add missing rename database reference
+* 3dbe1c4 feat: add column references
+* 3abb61d feat: add delete row reference
+* 5234c8e feat: add update row reference
+* 0d41e4d feat: add insert row reference
+* bb1749d fix: create table syntax
+* 96c5ab0 feat: add drop table reference
+* efedd2a feat: add create table reference
+* 59ef49d feat: add drop database reference
+* a5de944 feat: add create database reference
+* a029be1 Initial commit
