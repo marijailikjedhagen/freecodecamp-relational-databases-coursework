@@ -1,4 +1,4 @@
-# freeCodeCamp Relational Database – Coursework
+# freeCodeCamp Relational Databases – Coursework
 
 Workshops completed as part of the freeCodeCamp Relational Database curriculum, covering Bash, shell scripting, SQL, PostgreSQL, Git and nano.
 
